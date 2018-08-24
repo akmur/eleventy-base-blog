@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Alessandro Muraro - Frontend Developer",
+  "url": "https://alexmuraro.me/",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Frontend Developer based in Germany.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://alexmuraro.me/feed/feed.xml",
+    "id": "https://alexmuraro.me/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Alessandro Muraro",
+    "email": "mail@alexmuraro.me"
   }
 }

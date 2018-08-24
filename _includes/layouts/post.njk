@@ -1,8 +1,12 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-post
+templateClass: layout--post
 ---
 <h1>{{ title }}</h1>
+<div class="postedOn">
+  <span>Posted on</span>
+  <date>{{ date | dateFilter }}</date>
+</div>
 
 {{ content | safe }}
 
